@@ -13,7 +13,7 @@ image_label = Label(root, image=landscape_image)
 image_label.pack()
 
 # Adding text below the label
-text_label = Label(root, text="Feel the temperature drop in the pink night",
+text_label = Label(root, text="Hi Wen Qi",
                    font=("Biome", 25, "bold"), fg="#ed77a0")
 text_label.pack()
 
