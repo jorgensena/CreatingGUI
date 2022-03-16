@@ -1,4 +1,4 @@
-"""using multiple buttons"""
+"""intro to using buttons and labels"""
 
 from tkinter import *
 root = Tk()
